@@ -4,19 +4,19 @@ var quoteList =
  [
       {
          quote: "ثابتين علي وضعنا رجاله من صغرنا",     //index of 0
-         author: "ايهاب حسين"
+         author: "--Ahmed Tarek"
       },
       {
-        quote: "المنحوس منحوس ولو علقوا على راسه فانوس." ,         // index of 1
-        author:"محمد احمد"
+        quote: "المنحوس منحوس ولو علقوا على راسه فانوس" ,         // index of 1
+        author:"--Nader Nabil"
       },
       {
-        quote: "اللي تتغير محبته تتغير مخدته.",   //index of 2
-        author:"هشام"
+        quote: "العلم في الراس مش في الكراس",   //index of 2
+        author:""
       },
       {
         quote: "اتمسكن لحد ما تتمكن.",   //index of 3
-        author:"عبده الدد"
+        author:"عبده ورده"
       }
  ]
 
