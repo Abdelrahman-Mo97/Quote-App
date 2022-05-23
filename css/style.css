@@ -1,0 +1,13 @@
+.content h1
+{
+    font-size: 5rem;
+    font-family: Impact;
+}
+.content p{
+    font-size: 35px;
+}
+.content button.btn-quote:hover
+{
+    background-color: green;
+    
+}
