@@ -12,11 +12,11 @@ var quoteList =
       },
       {
         quote: "العلم في الراس مش في الكراس",   //index of 2
-        author:""
+        author:"--Mohamed Hazem"
       },
       {
         quote: "اتمسكن لحد ما تتمكن.",   //index of 3
-        author:"عبده ورده"
+        author:"Abdo Warda"
       }
  ]
 
