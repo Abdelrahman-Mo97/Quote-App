@@ -3,33 +3,26 @@
 var quoteList =
  [
       {
-         quote: "ثابتين علي وضعنا رجاله من صغرنا",     //index of 0
-         author: "--Ahmed Tarek"
+         quote: '"A room without books is like a body without a soul."',     //index of 0
+         author: "― Marcus Tullius Cicero"
       },
       {
-        quote: "المنحوس منحوس ولو علقوا على راسه فانوس" ,         // index of 1
-        author:"--Nader Nabil"
+        quote: '"You only live once, but if you do it right, once is enough."',         // index of 1
+        author:"― Mae West"
       },
       {
-        quote: "العلم في الراس مش في الكراس",   //index of 2
-        author:"--Mohamed Hazem"
+        quote: '"Be the change that you wish to see in the world."',   //index of 2
+        author:"― Mahatma Gandhi"
       },
       {
-        quote: "اتمسكن لحد ما تتمكن.",   //index of 3
-        author:"Abdo Warda"
+        quote: '"If you tell the truth, you don\'t have to remember anything."',   //index of 3
+        author:"― Mark Twain"
       }
  ]
-
-
-
-
-
-
+ 
 function newQuote(){
 
 var num = Math.floor ( (Math.random()*quoteList.length))
-
-
 
     document.getElementById("thequote").innerHTML = quoteList[num].quote;
     document.getElementById("authorQuote").innerHTML = quoteList[num].author;
